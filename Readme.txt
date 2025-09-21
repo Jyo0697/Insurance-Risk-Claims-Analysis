@@ -31,7 +31,7 @@ supporting smarter, data-driven decisions.
 
 ** ⚙️ How to Use **
 
-	1. Clone/download this repository.
+	1. Clone/download this repository. https://github.com/Jyo0697/Insurance-Risk-Claims-Analysis
 	2. Open the Insurance_Dashboard.pbix file in Power BI Desktop.
 	3. Connect to the dataset: insurance_policies_data.xlsx.
 	4. Explore claims and policies interactively with filters & slicers.
